@@ -16,19 +16,19 @@ We also present a new weakly supervised attack method that leverages ground-trut
 
 1. **Install Anaconda Environment**
 
-   Ensure Anaconda is installed to manage packages and dependencies.
+   Create an anaconda environment to manage packages and dependencies [see environment.yml].
 
 &nbsp;
 
 2. **Download Dataset**
 
-   Obtain datasets like LAION, CC12M, and CC3M using the repository: [img2dataset](https://github.com/rom1504/img2dataset/tree/main).
+   Download datasets such as LAION, CC12M, and CC3M using the repository: [img2dataset](https://github.com/rom1504/img2dataset/tree/main).
 
 &nbsp;
 
 3. **Check Duplication**
 
-   Utilize "Inspect_image_overlapping.ipynb" to inspect overlapping text, URLs, etc., in the selected datasets.
+   Utilize "Inspect_image_overlapping.ipynb" and "Inspect_text_overlapping.ipynb" to inspect and save the overlapping text, and URLs between datasets.
 
 &nbsp;
 
