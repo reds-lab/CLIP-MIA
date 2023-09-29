@@ -4,7 +4,7 @@ This is an official repository for Practical Membership Inference Attacks Agains
 
 &nbsp;
 
-In this paper, we take a first step towards developing practical MIAs against large-scale multi-modal models.
+In this work, we take a first step towards developing practical MIAs against large-scale multi-modal models.
 
 We introduce a simple baseline strategy by thresholding the cosine similarity between text and image features of a target point and propose further enhancing the baseline by aggregating cosine similarity across transformations of the target. 
 
