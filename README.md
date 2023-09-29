@@ -62,7 +62,7 @@ We also present a new weakly supervised attack method that leverages ground-trut
 
 5. **Execute the Attack**
 
-   Run `main.py --model ViT-B-32`.
+   Run `main.py --model ViT-B-32` (with other arguments).
 
 &nbsp;
 
